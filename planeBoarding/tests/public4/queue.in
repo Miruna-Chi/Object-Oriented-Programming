@@ -1,0 +1,32 @@
+18
+f3 EF 6 p false true
+s3 XB 54 p true false
+f3 AZ 7 p false false
+s4 OA 37 b true true
+f1 HR 44 e true false
+f1 PI 4 e true true
+s6 QF 40 b true false
+f1 KM 27 e true false
+f3 UM 46 p false false
+s8 QJ 29 b true true
+s2 XC 47 p true true
+f2 TZ 6 p false true
+f3 KJ 64 p false true
+f2 WI 58 p false false
+s7 AO 58 b false false
+s1 ST 62 e true false
+f2 GZ 35 p false false
+s5 RY 64 e false false
+insert f1
+insert s1
+insert f3
+insert s8
+insert s3
+list
+insert s4
+insert s7
+insert f2
+insert s6
+insert s5
+insert s2
+list

@@ -1,0 +1,68 @@
+52
+g1 FO 2 b true true
+g3 NB 45 e false false
+g6 VM 6 b false true
+g1 HN 37 b true true
+g6 NQ 3 b false false
+s1 WM 58 p false true
+g6 OI 2 b false true
+g4 WR 54 e false true
+g4 BB 5 e false true
+g6 DR 54 b false true
+g7 SA 2 e false false
+g2 SB 67 p false true
+g7 BF 3 e false false
+g4 AW 9 e false false
+g6 QA 2 b false false
+g4 GG 9 e false true
+g4 GR 30 e false false
+g5 DV 56 e false true
+g4 VE 6 e false false
+g5 GS 7 e false false
+g7 IJ 54 e false true
+g6 ZN 0 b false false
+g2 JD 40 p false true
+g1 WH 38 b true true
+g2 MC 6 p false true
+g4 TT 1 e false true
+g5 VT 8 e false false
+g7 LV 6 e false false
+g3 RJ 9 e false false
+g1 JQ 1 b true true
+g3 GN 1 e false false
+g7 QF 26 e false true
+g7 HZ 9 e false false
+g4 BS 1 e false true
+g3 RL 7 e false true
+g7 FX 4 e false true
+g3 CL 0 e false true
+g5 TS 1 e false false
+g6 MQ 8 b false false
+g7 XV 8 e false true
+g6 BT 28 b false true
+g4 VX 0 e false true
+g5 SZ 33 e false true
+g3 KK 37 e false false
+g3 NW 7 e false true
+g3 BA 5 e false true
+g2 NF 3 p false true
+g6 DX 0 b false true
+g5 HI 7 e false false
+s2 UR 41 p true true
+g3 WA 5 e false true
+g1 WH 8 b true true
+insert s2
+insert g1
+insert g3
+insert s1
+embark
+insert g4
+insert g5
+list
+insert g6
+embark
+embark
+list
+insert g2
+insert g7
+list

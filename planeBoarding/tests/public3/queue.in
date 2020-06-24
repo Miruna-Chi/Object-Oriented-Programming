@@ -1,0 +1,98 @@
+59
+f1 a 23 e false false
+f1 b 25 e false false
+s10 a 60 e true true
+f6 b 38 e true false
+f5 c 10 p false false
+f6 c 3 e true false
+f7 b 59 e false false
+f2 b 30 e true false
+g2 l 31 p false false
+f4 a 54 b true false
+s13 a 68 b false false 
+f5 a 17 p false false
+g2 b 32 p false false
+g2 c 35 p false false
+g2 k 26 p false false
+f5 b 15 p false false
+s15 a 56 e true false
+f2 a 28 e true false
+f6 e 1 e true true
+f7 a 67 e false false
+s2 a 78 e true true
+s12 a 72 p false false
+s8 a 37 p false false
+f7 e 34 e false false
+f7 f 30 e false false
+g4 a 18 b true true
+g4 b 18 b true true
+s5 a 26 p false false 
+s6 a 75 e true true
+f4 b 58 b true true
+s7 a 33 b true false
+g4 c 18 b true true
+g4 d 18 b true true
+f6 d 1 e true true
+g4 f 52 b true false
+g2 a 30 p false true
+g2 d 28 p false false
+g2 e 25 p false false
+f1 c 3 e false false
+g2 i 30 p false true
+g2 j 24 p false false
+g4 e 18 b true true
+f1 d 1 e false false
+f2 c 4 e true false
+f6 a 45 e true false
+f3 b 14 b false false
+s1 a 24 b false false 
+s3 a 35 p true false
+s4 a 32 b false false
+f3 a 20 b false false
+s9 a 52 b false false 
+s11 a 61 e true false
+s14 a 51 e true true
+s16 a 57 b false false
+g2 f 27 p false false
+g2 g 29 p false false
+g2 h 28 p false false
+f7 c 30 e false false
+f7 d 32 e false false
+insert s1
+insert s2
+insert s6
+insert g4
+insert f1
+insert s13
+insert f2
+embark
+insert s3
+list
+insert s14
+insert s15
+insert s4
+embark
+insert f3
+list
+insert s11
+embark
+insert s5
+insert s10
+embark
+list
+embark
+embark
+insert f4
+insert g2
+list
+insert f5
+insert s7
+embark
+insert s8
+insert s9
+insert f6
+insert s12
+insert f7
+embark
+insert s16
+list

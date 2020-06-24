@@ -1,0 +1,105 @@
+85
+g4 UO 48 e true true
+g2 TW 3 p false false
+g8 BZ 0 b false true
+g4 JE 1 e true false
+g3 VM 25 p true true
+g7 ZA 8 p false false
+g6 MZ 9 p true true
+g5 GK 7 p true true
+g8 PT 6 b false true
+g4 TG 3 e true true
+g6 II 8 p true true
+f4 SA 59 b true true
+g8 HS 4 b false false
+g7 SF 2 p false false
+g5 PT 65 p true true
+g8 HV 3 b false true
+g7 CD 0 p false true
+g2 OR 3 p false true
+g3 AZ 5 p true false
+g7 QT 3 p false true
+g3 ND 67 p true false
+f1 RB 7 p false true
+g7 YE 9 p false true
+g3 AW 5 p true false
+g7 BF 2 p false false
+g8 WC 9 b false false
+g3 YC 4 p true true
+g3 LM 0 p true true
+g7 VY 1 p false false
+g5 HS 4 p true true
+g4 ZH 4 e true false
+s1 GV 53 e false true
+f3 JG 6 b false false
+g3 KS 8 p true true
+g5 OA 6 p true false
+g9 CQ 4 p true true
+g2 GH 0 p false true
+g5 SB 3 p true true
+f1 XJ 1 p false false
+g4 JJ 6 e true true
+g2 OG 0 p false true
+g6 RM 48 p true true
+g1 IP 2 p true true
+g2 OT 1 p false true
+g2 JD 41 p false false
+g4 UQ 41 e true true
+f2 ZY 53 b false true
+g2 NK 42 p false false
+f1 RZ 40 p false false
+g6 MN 5 p true false
+f4 EW 8 b true true
+g3 VH 5 p true false
+g6 TQ 2 p true true
+g6 EO 49 p true true
+g9 NU 2 p true false
+g1 WZ 2 p true false
+f4 EC 59 b true true
+f1 WG 62 p false false
+g8 UD 3 b false true
+f3 GU 63 b false true
+g7 MG 45 p false false
+g5 FA 2 p true true
+s2 GH 38 e true false
+g3 UH 1 p true false
+f2 ZK 28 b false true
+g8 TN 6 b false false
+g8 YP 40 b false true
+g5 FC 29 p true false
+g4 XF 3 e true true
+f3 OD 60 b false true
+g8 MD 42 b false false
+g1 VF 1 p true true
+g9 US 34 p true true
+g1 QX 64 p true false
+g7 GS 36 p false false
+g5 IO 4 p true false
+f2 OJ 1 b false false
+g8 WE 7 b false true
+g1 CA 35 p true true
+g9 XW 3 p true true
+f2 WL 1 b false false
+g4 US 6 e true true
+g9 YM 27 p true true
+g3 QT 5 p true false
+f3 AP 2 b false false
+insert f3
+insert g6
+insert g1
+insert g7
+insert g4
+embark
+insert s1
+embark
+insert g9
+insert g3
+embark
+insert f2
+insert f4
+embark
+insert g2
+insert g5
+insert s2
+insert f1
+insert g8

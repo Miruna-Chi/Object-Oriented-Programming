@@ -1,0 +1,84 @@
+61
+s2 AW 34 p false true
+g4 PR 9 p true true
+g3 VV 4 b true false
+g2 VQ 6 e false true
+s4 RP 39 p true false
+g6 VZ 64 b false false
+g6 RT 2 b false false
+g3 NZ 37 b true false
+s5 LV 61 b true false
+g7 TD 5 b true false
+f1 EM 54 e false true
+g7 KV 3 b true true
+g5 WT 8 b false true
+g4 LO 5 p true false
+g3 CS 3 b true false
+g7 BK 38 b true true
+g6 UU 59 b false false
+g7 UB 7 b true false
+g5 PG 8 b false true
+g2 KS 7 e false false
+g2 CP 4 e false false
+g1 YE 28 p true true
+g5 BK 48 b false false
+g7 MW 4 b true false
+g4 QE 1 p true true
+g5 OD 9 b false false
+g4 PR 5 p true true
+g1 RW 8 p true true
+g5 ME 8 b false true
+g1 CC 4 p true false
+g1 GF 3 p true true
+g1 VF 3 p true false
+g6 ZZ 8 b false false
+f1 AW 9 e false false
+g4 EN 50 p true false
+s3 SI 63 e false false
+g7 LM 1 b true true
+g5 NV 6 b false false
+g6 ZO 8 b false true
+g5 HU 44 b false false
+g7 QL 2 b true false
+g6 UO 0 b false true
+g5 HS 2 b false true
+g1 ZC 6 p true true
+g1 LD 1 p true false
+f1 DP 7 e false true
+g7 FA 4 b true true
+s1 RX 45 e true false
+g7 IW 34 b true true
+g1 KI 0 p true false
+g4 SJ 8 p true true
+g1 VJ 7 p true false
+g1 VC 59 p true true
+f1 PI 31 e false true
+g6 GJ 1 b false true
+g2 OX 64 e false false
+g2 XO 52 e false false
+g4 TT 41 p true false
+g2 JY 1 e false false
+g6 OC 1 b false true
+g3 RN 37 b true false
+insert s5
+insert g4
+insert g5
+insert g1
+insert g2
+list
+embark
+insert s3
+insert s4
+insert s2
+insert g7
+embark
+embark
+list
+insert f1
+insert g6
+insert g3
+insert s1
+embark
+embark
+embark
+list

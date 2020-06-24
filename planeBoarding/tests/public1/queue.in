@@ -1,0 +1,16 @@
+7
+f1 maria 33 e false false
+g1 sorin 34 e true false
+f1 ana 3 e false false
+s1 cosmin 24 b false false 
+g1 ana 67 e true true
+f1 stefan 35 e false false
+s2 cristina 35 e false false
+insert f1
+insert s2
+embark
+insert g1
+insert s1
+list
+embark
+list

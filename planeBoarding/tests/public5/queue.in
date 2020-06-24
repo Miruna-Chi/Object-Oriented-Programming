@@ -1,0 +1,78 @@
+61
+g4 GK 40 p true false
+g5 UK 9 p false true
+g7 FJ 0 e true false
+g2 VG 2 p true true
+g6 OR 7 e true false
+g7 LU 7 e true true
+g7 KU 9 e true true
+g1 EM 5 b true false
+g6 CC 2 e true true
+g3 LM 9 p true true
+g6 XW 9 e true true
+g1 SR 3 b true true
+g6 UG 1 e true false
+g5 VC 49 p false false
+g6 UR 5 e true false
+s6 SN 53 e false false
+g4 MR 46 p true true
+g3 WQ 8 p true false
+s3 TO 63 e false false
+s7 QN 59 e true true
+g5 RD 6 p false false
+g6 NU 44 e true false
+s2 XP 46 b false true
+g7 CY 7 e true true
+s5 LJ 35 e true true
+g6 IY 63 e true true
+g3 CO 7 p true true
+s4 HR 61 p false true
+g2 MG 5 p true true
+g2 UO 38 p true false
+g3 XN 49 p true false
+g1 FU 60 b true true
+g7 IP 44 e true true
+g2 FU 9 p true false
+g6 PC 6 e true true
+g3 JS 3 p true false
+g4 BS 2 p true true
+g4 EV 6 p true false
+g6 WH 8 e true true
+g6 AV 8 e true true
+g4 BM 9 p true false
+g4 QR 2 p true false
+g3 EE 57 p true true
+g2 MC 3 p true false
+g2 RD 8 p true true
+g5 AK 0 p false true
+g1 UH 46 b true true
+g5 RA 9 p false false
+g2 BV 57 p true true
+g2 MH 8 p true false
+g2 LB 0 p true false
+g7 CV 3 e true false
+g7 UU 28 e true true
+g1 UN 7 b true true
+g5 HU 38 p false true
+s1 TX 33 b false true
+g4 HH 9 p true true
+g4 PT 0 p true false
+g7 CF 0 e true true
+g2 HG 5 p true true
+g7 TJ 1 e true true
+insert s7
+insert g6
+insert s1
+insert g3
+insert s3
+insert s5
+list
+insert g7
+insert s2
+insert g4
+insert s4
+insert g5
+insert s6
+insert g2
+insert g1
+list
